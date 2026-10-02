@@ -16,7 +16,7 @@ function ProductCard({name,price,image}) {
         </h2>
 
         <p className="mt-2 text-sm text-gray-600">
-          Comfortable running shoes with premium cushioning.
+          Comfortable running shoess with premium cushioning.
         </p>
 
         <div className="mt-3 flex items-center justify-between">
